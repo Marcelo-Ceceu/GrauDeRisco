@@ -1,2 +1,2 @@
-# GrauDeRisco
-Calcula o grau de risco de acordo com o peso.
+# IdadeMinimaVotação
+Verifica se a pessoa esta apta a votar de acordo com sua idade.
